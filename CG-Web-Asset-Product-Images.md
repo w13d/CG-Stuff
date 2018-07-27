@@ -1,6 +1,6 @@
 # Marketing Library Images | CG
 
-## CG Standard filename for Web Product image
+## Product Image Web Filename 
 
 ### Background
 ---
